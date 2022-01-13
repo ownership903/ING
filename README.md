@@ -4,5 +4,5 @@
 이 둘은 엄연히 확연하게 다르다<br/>
 따라서 확연히 다른 전략을 세워야 한다.<br/>
 
-Google Ads Keywords :: https://ads.google.com/
-Google Trends :: https://trends.google.com/trends/?geo=KR
+Google Ads Keywords :: https://ads.google.com <br/>
+Google Trends :: https://trends.google.com/trends/?geo=KR <br/>
